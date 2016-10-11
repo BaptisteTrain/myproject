@@ -7,6 +7,7 @@ public class Run {
 	public static void main(String[] args) {
 		
 		System.out.println(Strings.isNullOrEmpty("ok"));
+		System.out.println("bonjour");
 		
 	}
 	
