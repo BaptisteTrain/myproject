@@ -14,6 +14,10 @@ public class Run {
 		System.out.println("un push");
 		System.out.println("très bien");
 		System.out.println("okok");
+		System.out.println("très bien");
+		System.out.println("qwerty");
+		System.out.println("azerty");
+		System.out.println("lol");
 		
 	}
 	
