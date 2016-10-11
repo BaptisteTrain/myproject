@@ -10,7 +10,6 @@ public class Run {
 		System.out.println("bonjour");
 		System.out.println("C'est moi !!!");
 		System.out.println("bonjour");
-		System.out.println("hello");
 		System.out.println("ok");
 		System.out.println("un push");
 		System.out.println("très bien");
