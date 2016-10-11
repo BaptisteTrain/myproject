@@ -8,6 +8,7 @@ public class Run {
 		
 		System.out.println(Strings.isNullOrEmpty("ok"));
 		System.out.println("bonjour");
+		System.out.println("ok");
 		
 	}
 	
