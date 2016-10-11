@@ -13,6 +13,7 @@ public class Run {
 		System.out.println("ok");
 		System.out.println("un push");
 		System.out.println("très bien");
+		System.out.println("okok");
 		
 	}
 	
